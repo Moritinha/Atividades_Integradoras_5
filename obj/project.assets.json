@@ -8,20 +8,27 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\vinic\\.nuget\\packages\\": {}
+    "C:\\Users\\Beatriz\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vinic\\Desktop\\Faculdade\\Integradoras - GIT\\Atividades_Integradoras_5\\CaoLendario.csproj",
+      "projectUniqueName": "C:\\Users\\Beatriz\\Desktop\\Atividades_Integradoras_5\\CaoLendario.csproj",
       "projectName": "CaoLendario",
-      "projectPath": "C:\\Users\\vinic\\Desktop\\Faculdade\\Integradoras - GIT\\Atividades_Integradoras_5\\CaoLendario.csproj",
-      "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vinic\\Desktop\\Faculdade\\Integradoras - GIT\\Atividades_Integradoras_5\\obj\\",
+      "projectPath": "C:\\Users\\Beatriz\\Desktop\\Atividades_Integradoras_5\\CaoLendario.csproj",
+      "packagesPath": "C:\\Users\\Beatriz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Beatriz\\Desktop\\Atividades_Integradoras_5\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\vinic\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Beatriz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
